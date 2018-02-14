@@ -1,0 +1,19 @@
+{
+  "name": "text2svg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scope": "dmurphy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "text2svg": "main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "file:///home/dmurphy/Repos/minimist",
+    "text-to-svg": "^3.1.3"
+  }
+}
